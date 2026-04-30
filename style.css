@@ -76,6 +76,7 @@
   flex-direction: column; 
   padding: 10px 24px;
   gap: 20px;
+  
 
   /* add here */
 }
@@ -84,6 +85,7 @@
   text-decoration: none;
   font-size: 14px;
   color: white;
+  justify-content:space-between;
 }
 
 
@@ -104,6 +106,7 @@
   color: white;
   flex-direction: column;
   align-items: center; 
+  justify-content: center;
 }
 
 .hero-title {
